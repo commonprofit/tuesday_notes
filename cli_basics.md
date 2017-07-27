@@ -40,6 +40,6 @@
 
 1. Symlink sublime text to open with commandline: `ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/subl`
 
-2. Make sure we get Gitx working so that we can look at the subway map
+2. Make sure we get [Sourcetree](https://www.sourcetreeapp.com) working so that we can look at the subway map
 
 3. HTML / CSS basics (make static webpage)
